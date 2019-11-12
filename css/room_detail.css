@@ -1,0 +1,18 @@
+*{
+    outline: none!important;
+}
+.bedroom .img{
+    min-width: 400px;
+    height: 400px;
+    border: 1px solid black;
+}
+.bedroom h1{
+    color: green;
+    text-transform: capitalize;
+    line-height: 1.5;
+}
+.bedroom h1 span{
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+}
